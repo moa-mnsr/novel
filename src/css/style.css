@@ -8,7 +8,7 @@
 
 main {
     width: 80%;
-    max-width: 57vh;
+    max-width: 68vh;
     margin: 0 auto;
     border-left: 3px solid black;
     padding: 3rem 1rem 1rem 3.8rem; 
@@ -17,7 +17,7 @@ main {
   
   p {
     font-family: 'Archivo', sans-serif;
-    font-size: 2.25vh;
+    font-size: 2vh;
     margin: 0 0 3vh 0; 
     line-height: 1.5;
   }
