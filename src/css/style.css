@@ -1,0 +1,42 @@
+@import "/src/css/reset.css";
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap'); 
+
+
+* {
+    background: darkseagreen;
+}
+
+main {
+    width: 80%;
+    max-width: 57vh;
+    margin: 0 auto;
+    border-left: 3px solid black;
+    padding: 3rem 1rem 1rem 3.8rem; 
+  }
+  
+  
+  p {
+    font-family: 'Archivo', sans-serif;
+    font-size: 2.25vh;
+    margin: 0 0 3vh 0; 
+    line-height: 1.5;
+  }
+
+  
+
+
+
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 1em;
+}
+
+div.box {
+    display: flex;
+    background: #C4C4C4;   
+    align-items: center;
+    margin: 1em;
+    padding: 2em;
+    aspect-ratio: 1;
+}

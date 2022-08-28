@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "Lucette-Regular";
+    src: url(/src/fonts/lucette/woff2/Lucette-Regular.woff2), url(/src/fonts/lucette/woff/Lucette-Regular.woff);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lucette-RegularItalic";
+    src: url(/src/fonts/lucette/woff2/Lucette-Regularitalic.woff2), url(/src/fonts/lucette/woff/Lucette-Regularitalic.woff);
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Happy Times";
+    src: url(/src/fonts/happytimes/happy-times-NG_regular_master_web.woff2), url(/src/fonts/happytimes/happy-times-NG_regular_master_web.woff);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Happy Times";
+    src: url(/src/fonts/happytimes/happy-times-NG_italic_master_web.woff2), url(/src/fonts/happytimes/happy-times-NG_italic_master_web.woff);
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Happy Times";
+    src: url(/src/fonts/happytimes/happy-times-NG_bold_master_web.woff2), url(/src/fonts/happytimes/happy-times-NG_bold_master_web.woff);
+    font-weight: bold;
+    font-style: normal;
+}
