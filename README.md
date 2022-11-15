@@ -1,11 +1,12 @@
 # Writing a novel on Github
 
-## The project (in two parts)
+This project has two sides:
+
 1. **An experimental use of tools / conceptual aspect / performative act** ... using Github / version control almost daily to create a literary work-in-progress. This is meant to show the seams of creative work by displaying the process of prose writing and story development in a public way. The idea behind this is to borrow from an "open-source" ideology from the tech community as a means to counter the ideas of privacy and authorship that prevalent in traditional artistic and literary scenes / contexts. The purpose also comes from a personal project of overcoming blocks about perfectionism, objectives, and creating a final work for display before I have even started the embarassing and daily tedium of untangling thoughts and syntax, and not "getting too precious" about the work along the way.
 
 2. **The literary side or the story itself**... broken up into roughly six scenes which may be thought of as filmic and draw their order from a thought of them as screenplays, but most likely I will present in a poetic form or lyric prose, ultimately. The hub of the story are the interconnected affairs or fluid relationships between past and present lovers of a woman called Ana, who has a child and domestic relationship with a close friend and sometime lover Paul. They are both immigrants but from very different backgrounds in a large city that may or may not be named or referenced in the text (but in my mind is based on Berlin). The six scenes tell a cohesive but non-linear story about the nuances in the labels, devices, and practicalities that bind people to each other within non-monogamous relationships, which mean different things to the people involved.
 
-*For more on the second part, see "The Story (in six parts)" in story.md*
+*For more on the second part, see story.md*
  
     ----
     
