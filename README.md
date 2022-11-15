@@ -5,7 +5,7 @@
 
 2. **The literary side or the story itself**... broken up into roughly six scenes which may be thought of as filmic and draw their order from a thought of them as screenplays, but most likely I will present in a poetic form or lyric prose, ultimately. The hub of the story are the interconnected affairs or fluid relationships between past and present lovers of a woman called Ana, who has a child and domestic relationship with a close friend and sometime lover Paul. They are both immigrants but from very different backgrounds in a large city that may or may not be named or referenced in the text (but in my mind is based on Berlin). The six scenes tell a cohesive but non-linear story about the nuances in the labels, devices, and practicalities that bind people to each other within non-monogamous relationships, which mean different things to the people involved.
 
-For more on the second part, see "The Story (in six parts)" in story.txt
+**For more on the second part, see "The Story (in six parts)" in story.md**
  
     ----
     
