@@ -2,7 +2,7 @@
 
 Currently using GitHub as a tool for editing the text itself as well as for constructing the presentation of the work via a website. 
 
-## Editing process with version control
+### Editing process with version control
 Version control helps me to keep multiple versions ready at hand and visible to me. This way I can gather different drafts in one place and not be afraid to dramatically alter the text as needed. It also prevents me from simply erasing what I have done before I have had the time to have critical distance and decide what's worth keeping.
 
 ### Why a public repo?
