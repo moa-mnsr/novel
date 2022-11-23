@@ -1,6 +1,6 @@
 # Novel
 
-Currently using GitHub as a tool for editing the text itself as well as for constructing the presentation of the work via a website. 
+Currently using GitHub as a tool for editing the text itself as well as for constructing the presentation of the work online. A working version of the text-as-website can be found [here](https://novel1.netlify.app/).
 
 ### Editing process with version control
 Version control helps me to keep multiple versions ready at hand and visible to me. This way I can gather different drafts in one place and not be afraid to dramatically alter the text as needed. It also prevents me from simply erasing what I have done before I have had the time to have critical distance and decide what's worth keeping.
