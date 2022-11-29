@@ -20,7 +20,7 @@ Ana's partner Paul finds out that the apartment of an old lover that he has occu
 
 Milo is furious to find out that instead of having an extra-marital affair with Ana, her situation is transparent to her partner Paul. Milo seems to feel robbed of a sense of conquest and satisfaction that apparently felt with Ana as a woman with a partner and child. Later when Milo is settled into a turbulent but committed partnership he seeks out Ana as an escape, but she insists on telling his girlfriend. He lies to her about his transparency and when she finds out she ends their relationship permanenently.
 
-// another character line that might be developed into a few different sections or stories?
+// *another character / backstory that might be developed into a few different sections?*
 
 ### 4. Ana and Trish
 
