@@ -8,8 +8,7 @@
 
 ### 1. Ana and Milo
 
-Ana is a music teacher, Milo is a piano mover. He comes to her school a few times to move the piano, but his employers do not show up with the truck. Ana figures out quickly they are from the same country, torn by war in the decade before, and feels herself protective of Milo and endeared towards him though usually she avoids other immigrants. She has deep fatigue with discussing politics and what has happened there, and and senses that Milo's depiction would enrage her and they would not at all agree. She feels guilt for this, but also sees his anxiety and unease as a person as well as drawing comfort from the aspect of his demeanor th
-
+Ana is a music teacher, Milo is a piano mover. He comes to her school a few times to move the piano, but his employers do not show up with the truck. Ana figures out quickly they are from the same country, torn by war in the decade before. She finds herself feeling protective of Milo and endeared towards him though usually she avoids other immigrants, especially when she suspects they will politically disagree. She has deep fatigue with all discussion of the war and its aftermath, and senses that Milo's outlook would enrage her. She feels guilt for this, for being with him, but also sees his anxiety and unease as a person as well as drawing comfort from familiarity (of language, of gesture, and other tangible nostalgias)
 
 ### 2. Paul and Katja
 
