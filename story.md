@@ -8,26 +8,20 @@
 
 *I want to explore altering the aesthetic of different sections while raising a similar set of questions*
 
-### 1. 
+### 1. Ana and Milo
 
 Ana is a music teacher, Milo is a piano mover. He comes to her school a few times to move the piano, but his employers do not show up with the truck. Ana figures out quickly they are from the same country, torn by war in the decade before. She finds herself feeling protective of Milo and endeared towards him though usually she avoids other immigrants, especially when she suspects they will politically disagree. She has deep fatigue with all discussion of the war and its aftermath, and senses that Milo's outlook would enrage her. She feels guilt for this, for being with him, but also sees his anxiety and unease as a person as well as drawing comfort from familiarity (of language, of gesture, and other tangible nostalgias).
 
-### 2. 
+### 2. Ana and Paul
 
-Ana's partner Paul finds out that the apartment of an old lover that he has occupied for nearly a decade is going to be sold and he can't continue to use it as his own. He otherwise lives with Ana and their son, but neither space belongs to or really resembles him. Paul and Ana have been friends a long time, and had an open relationship the whole time they have been lovers, in part because Paul has always remained attached to this old lover via her apartment while she works abroad. They decided to have a child together at Ana's suggestion without changing the fluid and independent nature of their relationship to a great extent. 
+Ana's partner Paul finds out that the apartment of an old lover that he has occupied for nearly a decade is going to be sold and he can't continue to use it as his own. He otherwise lives with Ana and their son, but neither space belongs to or really resembles him. Paul and Ana have been friends a long time, and had an open relationship the whole time they have been lovers, in part because Paul has always remained attached to this old lover via her apartment while she works abroad. They decided to have a child together at Ana's suggestion without greatly altering the fluid and independent nature of their relationship.
 
-### 3. 
+### 3. Ana and Milo
 
-...met in Ana's home country when Deb was a student; Deb became successful as a journalist through the stories given to her by Ana's group of friends. Deb is both dearly close and emotionally depends on Ana and partly in love with her in a way she is not fully comfortable expressing or admitting; she knows that Ana is queer too but also much stronger and more confident than Deb and in some ways in a much less mobile, more precarious practical position as a young person in a country that has been torn apart from war. 
+Milo is furious to find out that instead of having an extra-marital affair with Ana, her situation is transparent to her partner Paul. Milo seems to feel robbed of a sense of conquest and satisfaction that apparently felt with Ana as a woman with a partner and child. 
 
-Deb overcompensates for her mixed feelings by offering Ana her place in (the city where they all later live/Berlin but not Berlin), giving Ana a much coveted route to emigrate from her home country. Ana and Paul thus both have as a theme needing to establish their own secruity / practical independence in this city where they have immigrated, but from much different circumstances. (Paul and Deb are from wealthier countries but still unsure how explicit I will make the idea of where they are from). 
+### 4. Ana and Trish
 
-Ana is sure-footed and swift about becoming self-sufficient as quickly as possible, while Paul does not seem as motivated towards it and seems to somehwat masochistically enjoy his dependency on Kajta, but much less so on Ana (despite that their relationship is much stronger and healthier)
-
-### 4. 
-
-Deb is ultimately the one who introduces Ana to Paul but then has mixed feelings (predictably) about how close they become. Paul and Deb know each other from the queer community and so Deb is also partly disappointed that Paul remains so dependent on his relationships to women rather than being more unconventional. 
-
-Paul is not succesful like Deb, and neither are out to their family, though for Paul it would not be a problem, it is simply not a concern, and Deb chooses to actively hide this due to her family's religiousness/homophobia. When she was younger she was married to a man who cheated on her, confessed with great fear and distress, and then was surprised to discover she was delighted, as she had at this point in her life realized she had almost no sexual interest in him. He was almost disappointed at her lack of fury, and his relationship with the new person fell apart as a result of the lack of dramatic momentum he had expected. Deb gladly settles with him on the house without a lengthy divorce process and even ends up supporting him for years while he falls listless.
+Trish is a mutual friend that introduced Ana and Paul but is quietly disappointed that they ended up lovers, feeling possessive towards Paul but complicatedly in love with Ana. Trish became successful as a journalist after living in Ana's home country, where they met years before. Trish gleaned stories from Ana's friends that were the foundation of her success though her own politics were much more undeveloped and tepid than those of Ana's friends. In this time, Trish depended heavily on Ana while also having feelings for her. Trish's determination for a certain kind of success as well as hiding her sexuality from her family meant their relationship remained  
     
  [to be continued from handwritten notes, which are also too easy to lose track of! another reason I am using this as a tool right now for the diting process...]  
