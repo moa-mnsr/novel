@@ -1,26 +1,20 @@
-## The story
+## Story (arc)
 
 *... a sort of map / note to self to remember the details I have outlined so far. To me this feels like the version of the Wikipedia article you might find about the novel if it were a real book, and it's hard for me not to get stuck scheming out ideas rather than actually writing the text*
 
-*each section is meant to raise a question about the nature of secrecy, transparency, and sexuality / attention, following a similar narrative arc with different conclusions. With the current idea for structure, I've been thinking about the film series [Six Moral Tales](https://www.criterion.com/boxsets/417-six-moral-tales) by Éric Rohmer. There are recurring elements in the basic story for each film, but the aesthetic and environments of the films are strinkingly different.* 
+*each section is meant to raise a question about the nature of secrecy, transparency, and sexuality / attention, following a similar narrative arc with different conclusions.*
+
+*With the current idea for structure, I've been thinking about the film series [Six Moral Tales](https://www.criterion.com/boxsets/417-six-moral-tales) by Éric Rohmer. There are recurring elements in the basic story for each film, but the aesthetic and environments of the films are strinkingly different.* 
 
 *I want to explore altering the aesthetic of different sections while raising a similar set of questions*
 
 ### 1. 
 
-Ana is a music teacher, Milo is a piano mover. He comes to her school a few times to move the piano, but his employers do not show up with the truck. Ana figures out quickly they are from the same country, torn by war in the decade before. She finds herself feeling protective of Milo and endeared towards him though usually she avoids other immigrants, especially when she suspects they will politically disagree. She has deep fatigue with all discussion of the war and its aftermath, and senses that Milo's outlook would enrage her. She feels guilt for this, for being with him, but also sees his anxiety and unease as a person as well as drawing comfort from familiarity (of language, of gesture, and other tangible nostalgias)
+Ana is a music teacher, Milo is a piano mover. He comes to her school a few times to move the piano, but his employers do not show up with the truck. Ana figures out quickly they are from the same country, torn by war in the decade before. She finds herself feeling protective of Milo and endeared towards him though usually she avoids other immigrants, especially when she suspects they will politically disagree. She has deep fatigue with all discussion of the war and its aftermath, and senses that Milo's outlook would enrage her. She feels guilt for this, for being with him, but also sees his anxiety and unease as a person as well as drawing comfort from familiarity (of language, of gesture, and other tangible nostalgias).
 
 ### 2. 
 
-The narrative time of the second "scene" coincides with the first, where Ana meets Milo. In the second story, Ana's partner/lover/co-parent Paul finds out he needs to move out of an apartment which has never been his but which he has been using for nearly a decade. He finds out about the apartment shortly after Ana's affair with Milo has begun. 
-
-Paul does not like what he knows of Milo, but has supports having an open relationship with Ana in general and since the beginning, not least of all because he still remains connected to an old lover of his (Katja) by partially living in her studio apartment while she was semi-permanently out of the city. 
-
-This situation was at first due to Katja's work touring as a dancer, and then as she pulled away from dancing, it was more because she had another lover/partner with whom she is more permanently settled, but allows Paul to stay in the flat anyway in case she wants to come back (she comes from money and the flat belongs to her father, so is really not a concern for her). 
-
-Meanwhile, for Paul, the flat is both a useful space for solitude and making things (like Ana, Paul makes music, but is not formally trained), and also a sort of object of longing and devotion to Katja, who is always permanently elsewhere and barely interested in him any longer, though their relationship spans almost two decades.  
-
-The flat where he lives with Ana and their son has also always been Ana's, and Paul feels that he has no real claim of his own to anything and that he is somehow ghostly or shrinking with the loss of Katja's flat (but also Katja herself) and Ana's enthusiasm for someone so different from either of them (Milo) who Paul rightly suspects does not know everything of their situation (but not in the way that Paul thinks).
+Ana's partner Paul finds out that the apartment of an old lover that he has occupied for nearly a decade is going to be sold and he can't continue to use it as his own. He otherwise lives with Ana and their son, but neither space belongs to or really resembles him. Paul and Ana have been friends a long time, and had an open relationship the whole time they have been lovers, in part because Paul has always remained attached to this old lover via her apartment while she works abroad. They decided to have a child together at Ana's suggestion without changing the fluid and independent nature of their relationship to a great extent. 
 
 ### 3. 
 
