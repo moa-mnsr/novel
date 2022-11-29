@@ -6,11 +6,11 @@
 
 *I want to explore altering the aesthetic of different sections while raising a similar set of questions*
 
-### 1. Ana and Milo
+### 1. 
 
 Ana is a music teacher, Milo is a piano mover. He comes to her school a few times to move the piano, but his employers do not show up with the truck. Ana figures out quickly they are from the same country, torn by war in the decade before. She finds herself feeling protective of Milo and endeared towards him though usually she avoids other immigrants, especially when she suspects they will politically disagree. She has deep fatigue with all discussion of the war and its aftermath, and senses that Milo's outlook would enrage her. She feels guilt for this, for being with him, but also sees his anxiety and unease as a person as well as drawing comfort from familiarity (of language, of gesture, and other tangible nostalgias)
 
-### 2. Paul and Katja
+### 2. 
 
 The narrative time of the second "scene" coincides with the first, where Ana meets Milo. In the second story, Ana's partner/lover/co-parent Paul finds out he needs to move out of an apartment which has never been his but which he has been using for nearly a decade. He finds out about the apartment shortly after Ana's affair with Milo has begun. 
 
@@ -22,7 +22,7 @@ Meanwhile, for Paul, the flat is both a useful space for solitude and making thi
 
 The flat where he lives with Ana and their son has also always been Ana's, and Paul feels that he has no real claim of his own to anything and that he is somehow ghostly or shrinking with the loss of Katja's flat (but also Katja herself) and Ana's enthusiasm for someone so different from either of them (Milo) who Paul rightly suspects does not know everything of their situation (but not in the way that Paul thinks).
 
-### 3. Ana and Deb
+### 3. 
 
 ...met in Ana's home country when Deb was a student; Deb became successful as a journalist through the stories given to her by Ana's group of friends. Deb is both dearly close and emotionally depends on Ana and partly in love with her in a way she is not fully comfortable expressing or admitting; she knows that Ana is queer too but also much stronger and more confident than Deb and in some ways in a much less mobile, more precarious practical position as a young person in a country that has been torn apart from war. 
 
@@ -30,7 +30,7 @@ Deb overcompensates for her mixed feelings by offering Ana her place in (the cit
 
 Ana is sure-footed and swift about becoming self-sufficient as quickly as possible, while Paul does not seem as motivated towards it and seems to somehwat masochistically enjoy his dependency on Kajta, but much less so on Ana (despite that their relationship is much stronger and healthier)
 
-### 4. Paul and Deb
+### 4. 
 
 Deb is ultimately the one who introduces Ana to Paul but then has mixed feelings (predictably) about how close they become. Paul and Deb know each other from the queer community and so Deb is also partly disappointed that Paul remains so dependent on his relationships to women rather than being more unconventional. 
 
